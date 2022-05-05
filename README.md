@@ -1,2 +1,2 @@
-# Orange
-I am Orange and i want to learn coding but i am to faul dafür
+Hello my name is Orange 
+I am a German Developer and i am learning Java at the moment. :)
